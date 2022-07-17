@@ -14,4 +14,4 @@ For example, if the issue is called "Script.py debug fix" and its issue number i
 
 *Note: NEVER make modifications to the main branch, please be careful and always make sure you are on an alternate branch*
 
--Then, you are done! Do your development. 
+- Then, you are done! Do your development. 
