@@ -1,7 +1,7 @@
 # OptApp
 This repository contains the code of our company OptApp
 
-## Repo's Rules
+## Repo Rules
 In order to have an orderly work methodology, some points are requested to be followed:
 
 - Before to do a modification or development in a script, you must to create a new issue and give it a name. 
