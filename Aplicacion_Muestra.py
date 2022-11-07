@@ -2,8 +2,9 @@ import streamlit as st
 from Database_SQL import Database
 
 # function to sum
+
 def my_sum(x=4, y=5):
-    return x+y
+
 
 # function to rest
 
