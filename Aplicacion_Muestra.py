@@ -1,10 +1,13 @@
 import streamlit as st
 from Database_SQL import Database
 
-
+# function to sum
 def my_sum(x, y):
     return x+y
 
+# function to rest
+def my_rest(x,y):
+    return x-y
 
 # start Connection
 database = Database()
