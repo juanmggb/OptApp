@@ -6,7 +6,7 @@ def my_sum(x, y):
     return x+y
 
 # function to rest
-def my_rest(x,y):
+def my_rest(x=0,y=0):
     return x-y
 
 # start Connection
